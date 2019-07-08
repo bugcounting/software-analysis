@@ -5,14 +5,13 @@ which I have been teaching at [USI](http://inf.usi.ch/) since the 2019 spring se
 
 I will usually update this repository after each iteration of the course with fixes and possibly new material.
 You will find the material used in year `20YY` in the commit tagged `yYY`.
-The latest material is tagged `y19`.
 
 Except where otherwise noted, the content is all copyright [Carlo A. Furia](http://bugcounting.net/) 
 and distributed under Creative Commons license [Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/) (CC BY-NC-ND 4.0). 
 
 If you use some of this material in your own teaching, I appreciate if you drop [me](mailto:furiac@usi.ch) a line.
 
-Pull requests fixing typos or other mistakes are welcome.
+If you find typos or other mistakes you are welcome to post an issue (or email me if you prefer).
 
 
 ## Topics
